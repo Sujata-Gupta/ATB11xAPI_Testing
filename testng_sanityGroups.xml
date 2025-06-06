@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/SUJATA GUPTA/IdeaProjects/ATB11x/testng.xml">
+<groups>
+    <run>
+        <include name="sanity">
+            
+        </include>
+    </run>
+</groups>
+        <classes>
+            <class name="org.example.ex_05_TestNGExamples.APITesting017_TestNG_Groups"></class>
+        </classes>
+    </test>
+</suite>
